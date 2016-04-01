@@ -1,0 +1,28 @@
+{
+  "name": "patronesjs",
+  "description": "Código ejemplo del curso A Practicar Patrones de Diseño de Tut+ (Put Desing Patterns into Practice course)",
+  "main": "index.js",
+  "authors": [
+    "Lucas Isasmendi"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JavaScript",
+    "Diseño",
+    "Patrones"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.2.0"
+  }
+}
